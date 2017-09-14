@@ -1,2 +1,2 @@
-# barchart.github.io
+# barchart
 barchart D3
